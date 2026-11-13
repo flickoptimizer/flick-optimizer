@@ -17,9 +17,16 @@ and reversible.
 
 - **Game optimization** - finds the competitive games installed on your PC (VALORANT, Counter-Strike 2,
   Fortnite, Apex Legends, Overwatch 2, League of Legends, Call of Duty, Rainbow Six Siege, Rocket League,
-  Marvel Rivals, Dota 2, PUBG, THE FINALS, Deadlock - or any game you add) and gives each one its own
-  menu: CPU priority, fullscreen behaviour, NVIDIA driver profile, network priority and recommended
-  in-game settings.
+  Marvel Rivals, Dota 2, PUBG, THE FINALS, Deadlock, Escape from Tarkov, Rust, Hunt: Showdown 1896,
+  Battlefield 6 and 2042, Delta Force, Halo Infinite, War Thunder - or any game you add) and gives each
+  one its own menu: CPU priority, fullscreen behaviour, NVIDIA driver profile, network priority and
+  recommended in-game settings.
+- **Competitive video settings, written for you** - for **VALORANT, Fortnite, Counter-Strike 2 and
+  Apex Legends**, one click writes the competitive preset into the game's own settings file: fullscreen,
+  V-Sync off, NVIDIA Reflex where the game has it, low shadows / effects / post-processing. Your
+  resolution and refresh rate are kept, every value is backed up and can be put back.
+- **Watch my PC** - checks at sign-in that Windows or another app did not undo your settings, and
+  quietly puts them back.
 - **80+ tweaks** for input latency, CPU scheduling, power, GPU, memory, network and privacy - each with
   a clear description, impact and risk level. Flip a switch, press *Apply changes*.
 - **PC scanner** - exact specs and a gaming-readiness checklist (XMP, Resizable BAR, drivers, refresh
@@ -54,7 +61,9 @@ Uninstall any time from **Settings > Apps > FLICK Optimizer**.
 - Offers a **System Restore point** before applying anything.
 - Saves the **original value of every setting** it changes, so each tweak can be reverted on its own -
   or everything at once with *Revert ALL*.
-- **Never touches game files**, never injects into games, never disables your antivirus.
+- **Never touches game or anti-cheat files**, never injects into games, never disables your antivirus.
+  The competitive video settings only edit *your own* settings file (the same one the game's menu
+  writes), and only while the game is closed.
 - Downloads only from the original publisher (NVIDIA, Windows Update, winget) and checks signatures.
 
 ## Community
