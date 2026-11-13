@@ -32,7 +32,8 @@ and reversible.
 - **PC scanner** - exact specs and a gaming-readiness checklist (XMP, Resizable BAR, drivers, refresh
   rate, Secure Boot / TPM for anti-cheats...) with one-click fixes.
 - **Benchmark** - records real gameplay with Intel PresentMon: average FPS, 1% / 0.1% lows, stutters
-  and PC latency, run against run.
+  and PC latency. Measure **before and after FLICK** and see exactly what you gained, with your PC's
+  specs on every result - then copy it as an image or share it in the FLICK Discord.
 - **Debloat & Cleaner** - removes pre-installed apps that run in the background and clears junk files.
 - **Gaming apps** - installs the tools that help (drivers, monitoring, your mouse / keyboard software)
   straight from each publisher.

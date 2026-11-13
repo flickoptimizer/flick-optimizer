@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.0 - before / after benchmark and sharing
+
+- **Before / after FLICK benchmark**: FLICK suggests a quick "before" run at first launch (and when you
+  press *Optimize everything* without one), then the "after" run once your PC is optimized, and compares
+  them with plain-language verdicts (1% lows, stutters, latency, CPU or GPU limit).
+- Every run records your PC (CPU, GPU and driver, RAM, display, Windows), the game and your FLICK score.
+- **Share**: preview your result card exactly as it will be posted, copy it as an image (TikTok, Discord,
+  Reddit...) or post it in #benchmarks on the FLICK Discord.
+- **Honest numbers**: FLICK tells you when a run reads low - the game was not in front while recording,
+  V-Sync was on, or the game ran windowed / borderless through Windows.
+
 ## 1.1.0 - competitive video settings for more games
 
 - **Competitive video settings, written for you**, now for **Fortnite, Counter-Strike 2 and Apex
