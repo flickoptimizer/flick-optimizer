@@ -26,7 +26,7 @@ and reversible.
   V-Sync off, NVIDIA Reflex where the game has it, low shadows / effects / post-processing. Your
   resolution and refresh rate are kept, every value is backed up and can be put back.
 - **Watch my PC** - checks at sign-in that Windows or another app did not undo your settings, and
-  quietly puts them back.
+  quietly puts them back. A small FLICK icon next to the clock shows your optimization score on hover.
 - **80+ tweaks** for input latency, CPU scheduling, power, GPU, memory, network and privacy - each with
   a clear description, impact and risk level. Flip a switch, press *Apply changes*.
 - **PC scanner** - exact specs and a gaming-readiness checklist (XMP, Resizable BAR, drivers, refresh

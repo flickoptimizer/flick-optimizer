@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.0 - Settings page and an icon next to the clock
+
+- **FLICK icon next to the clock**: shows that FLICK is watching your PC. Hover it to see how optimized
+  your PC is (and how many settings need repairing), click it to open FLICK. A tiny program that starts
+  with Windows without administrator rights - turn it off in Settings or from its own menu.
+- **Settings page**: your account (email, access code, PCs using it), automation (Watch my PC, Repair
+  automatically, auto-update, the clock icon), benchmark preferences (recording length, countdown, name
+  shown when sharing, before / after suggestions), ignored scanner checks, updates, data & privacy.
+
 ## 1.2.0 - before / after benchmark and sharing
 
 - **Before / after FLICK benchmark**: FLICK suggests a quick "before" run at first launch (and when you
