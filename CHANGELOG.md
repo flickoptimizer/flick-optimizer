@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.3.1
+
+- **Run a benchmark from the clock icon**: right-click the FLICK icon > *Run a benchmark...* opens FLICK
+  on the Benchmark page, ready to start.
+- The FLICK icon now really shows next to the clock on Windows 11 (1.3.0 could leave it in the hidden
+  "^" area).
+- One FLICK logo everywhere: the small sizes of the icon file showed noise in the clock icon, and the
+  app's sidebar now uses the real logo.
+
 ## 1.3.0 - Settings page and an icon next to the clock
 
 - **FLICK icon next to the clock**: shows that FLICK is watching your PC. Hover it to see how optimized
