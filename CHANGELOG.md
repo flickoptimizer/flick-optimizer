@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.5
+
+- **Auto-update** now also checks every 4 hours, not only when you sign in to Windows (a PC that just
+  goes to sleep could stay on an old version for days). It still never installs while you play.
+- With auto-update on, opening FLICK when a new version is out installs it after a 10-second countdown.
+
 ## 1.3.4
 
 - **Animated optimization score**: the ring on the Dashboard fills up and counts to your score when FLICK
