@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.4
+
+- **Animated optimization score**: the ring on the Dashboard fills up and counts to your score when FLICK
+  opens, and moves every time it changes.
+- **New versions show in the middle of FLICK**, with what's new and one click to update. *Later* keeps
+  the banner on the Dashboard.
+
 ## 1.3.3
 
 - **Restart now** really restarts the PC after applying tweaks or *Optimize everything* (it could do
