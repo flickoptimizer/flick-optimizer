@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.3.3
+
+- **Restart now** really restarts the PC after applying tweaks or *Optimize everything* (it could do
+  nothing before), and says so.
+- The FLICK icon next to the clock no longer crashes with a ".NET Framework" error when a setting needs
+  repairing.
+
 ## 1.3.2
 
 - **ROB RUN** is now detected automatically and gets its own optimization menu and recommended
