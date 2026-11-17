@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.3.2
+
+- **ROB RUN** is now detected automatically and gets its own optimization menu and recommended
+  in-game settings.
+
 ## 1.3.1
 
 - **Run a benchmark from the clock icon**: right-click the FLICK icon > *Run a benchmark...* opens FLICK

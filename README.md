@@ -18,7 +18,7 @@ and reversible.
 - **Game optimization** - finds the competitive games installed on your PC (VALORANT, Counter-Strike 2,
   Fortnite, Apex Legends, Overwatch 2, League of Legends, Call of Duty, Rainbow Six Siege, Rocket League,
   Marvel Rivals, Dota 2, PUBG, THE FINALS, Deadlock, Escape from Tarkov, Rust, Hunt: Showdown 1896,
-  Battlefield 6 and 2042, Delta Force, Halo Infinite, War Thunder - or any game you add) and gives each
+  Battlefield 6 and 2042, Delta Force, Halo Infinite, War Thunder, ROB RUN - or any game you add) and gives each
   one its own menu: CPU priority, fullscreen behaviour, NVIDIA driver profile, network priority and
   recommended in-game settings.
 - **Competitive video settings, written for you** - for **VALORANT, Fortnite, Counter-Strike 2 and
