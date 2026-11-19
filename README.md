@@ -28,7 +28,8 @@ and reversible.
 - **Watch my PC** - checks at sign-in that Windows or another app did not undo your settings, and
   quietly puts them back. A small FLICK icon next to the clock shows your optimization score on hover.
 - **80+ tweaks** for input latency, CPU scheduling, power, GPU, memory, network and privacy - each with
-  a clear description, impact and risk level. Flip a switch, press *Apply changes*.
+  a clear description, impact and risk level. Flip a switch, press *Apply changes*. Includes a choice of
+  fast public DNS (Cloudflare, Google, Quad9, AdGuard, OpenDNS).
 - **PC scanner** - exact specs and a gaming-readiness checklist (XMP, Resizable BAR, drivers, refresh
   rate, Secure Boot / TPM for anti-cheats...) with one-click fixes.
 - **Benchmark** - records real gameplay with Intel PresentMon: average FPS, 1% / 0.1% lows, stutters

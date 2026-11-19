@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.3.6
+
+- **Pick your DNS**: *Use a fast public DNS* (Tweaks > Network) now has a menu - Cloudflare, Google,
+  Quad9 (blocks malware), AdGuard (blocks ads and trackers) or OpenDNS. Already on? Picking another one
+  switches right away, and *Revert* still puts back the DNS you had before FLICK.
+
 ## 1.3.5
 
 - **Auto-update** now also checks every 4 hours, not only when you sign in to Windows (a PC that just
